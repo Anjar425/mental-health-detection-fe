@@ -62,7 +62,7 @@ export function HeroSection({ onGetStarted }: HeroSectionProps) {
                             variant="outline"
                             className="rounded-full border-primary/30 text-primary hover:bg-primary/5 bg-transparent"
                         >
-                            <Link href="/auth/login">Pelajari Lebih Lanjut</Link>
+                            <Link href="/dashboard">Pelajari Lebih Lanjut</Link>
                         </Button>
                     </View>
                 </View>
